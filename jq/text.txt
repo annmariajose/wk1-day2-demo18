@@ -1,1 +1,5 @@
 Good Evening Westcliff Bootcamp!
+<br><br>
+This is a wonderful class. Everyone is here today!
+<br><br>
+We are learning JQuery.
